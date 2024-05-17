@@ -1,0 +1,14 @@
+C:\Users\mis\Desktop\Enrollment System\EnrollmentSystem\EnrollmentSystem\bin\Debug\EnrollmentSystem.exe
+C:\Users\mis\Desktop\Enrollment System\EnrollmentSystem\EnrollmentSystem\bin\Debug\EnrollmentSystem.exe.config
+C:\Users\mis\Desktop\Enrollment System\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.AssemblyReference.cache
+C:\Users\mis\Desktop\Enrollment System\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.MainEntry.resources
+C:\Users\mis\Desktop\Enrollment System\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.Properties.Resources.resources
+C:\Users\mis\Desktop\Enrollment System\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.SubjectEntry.resources
+C:\Users\mis\Desktop\Enrollment System\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.SubjectScheduleEntry.resources
+C:\Users\mis\Desktop\Enrollment System\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.GenerateResource.cache
+C:\Users\mis\Desktop\Enrollment System\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\mis\Desktop\Enrollment System\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.exe
+C:\Users\mis\Desktop\Enrollment System\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.pdb
+C:\Users\mis\Desktop\Enrollment System\EnrollmentSystem\EnrollmentSystem\bin\Debug\EnrollmentSystem.pdb
+C:\Users\mis\Desktop\Enrollment System\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.EnrollmentEntry.resources
+C:\Users\mis\Desktop\Enrollment System\EnrollmentSystem\EnrollmentSystem\obj\Debug\EnrollmentSystem.StudentEntry.resources
